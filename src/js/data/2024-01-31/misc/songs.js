@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Alice to Zouroku - Wonder Drive by ORESAMA",
-    videoId : "https://nl.catbox.video/kl3z4w.webm",
+    name: "Kingdom - Pride by Nothing's Carved In Stone",
+    videoId : "https://nl.catbox.video/f32e7u.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bungo Stray Dogs 2 - Reason Living by SCREEN mode",
-    videoId : "https://nl.catbox.video/fasdl1.webm",
+    name: "One Outs - Bury by Pay money To my Pain",
+    videoId : "https://nl.catbox.video/wmlf63.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Tensei Shitara Slime Datta Ken - Meguru Mono by Takuma Terashima",
-    videoId : "https://nl.catbox.video/qtw27u.webm",
+    name: "D.Gray-Man - Doubt & Trust by access",
+    videoId : "https://nl.catbox.video/qtytjj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Flip Flappers - Serendipity by ZAQ",
-    videoId : "https://nl.catbox.video/qr7dp1.webm",
+    name: "Durarara!! - Complication by ROOKiEZ is PUNK'D",
+    videoId : "https://nl.catbox.video/pccp95.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "ACCA 13-ku Kansatsu-ka - Shadow and Truth by ONE III NOTES",
-    videoId : "https://nl.catbox.video/gdbuzd.webm",
+    name: "Hagane no Renkinjutsushi: Brotherhood - Period by CHEMISTRY",
+    videoId : "https://nl.catbox.video/rajrns.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Dororo - Kaen by Ziyoou-vachi",
-    videoId : "https://nl.catbox.video/nguams.webm",
+    name: "D.Gray-Man Hallow - Key -bring it on, my Destiny- by LENNY CODE FICTION",
+    videoId : "https://nl.catbox.video/y5u9lw.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Eureka Seven - Shounen Heart by HOME MADE Kazoku",
-    videoId : "https://nl.catbox.video/hccohi.webm",
+    name: "Black Clover - PAiNT it BLACK by BiSH",
+    videoId : "https://nl.catbox.video/4zaz1v.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kakuriyo no Yadomeshi - Tomoshibi no Manimani by Nao Touyama",
-    videoId : "https://nl.catbox.video/10w3nm.webm",
+    name: "Tokyo Revengers: Seiya Kessen-hen - White Noise by Official HIGE DANdism",
+    videoId : "https://nl.catbox.video/u07fyx.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "Mahoujin Guruguru - Ryuusei Dance Floor by ORESAMA",
-    videoId : "https://nl.catbox.video/p0edvh.webm",
+    name: "Tales of the Abyss - Karma by BUMP OF CHICKEN",
+    videoId : "https://nl.catbox.video/oed6vi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cardcaptor Sakura - Platinum by Maaya Sakamoto",
-    videoId : "https://nl.catbox.video/wntw9t.webm",
+    name: "Sci-Fi Harry - Mysterious by Janne Da Arc",
+    videoId : "https://nl.catbox.video/54kge9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shadowverse F - Tick-Tock by NEWS",
-    videoId : "https://nl.catbox.video/wgqq4b.webm",
+    name: "Banana Fish - found & lost by Survive Said The Prophet",
+    videoId : "https://nl.catbox.video/ddto2t.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Jujutsu Kaisen 2nd Season - Ao no Sumika by Tatsuya Kitani",
-    videoId : "https://nl.catbox.video/589lde.webm",
+    name: "Hajime no Ippo: New Challenger - HEKIREKI by LAST ALLIANCE",
+    videoId : "https://nl.catbox.video/qszlrf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "Tsurune - Naru by Luck Life",
-    videoId : "https://nl.catbox.video/tsm12k.webm",
+    name: "Bleach - Ranbu no Melody by SiD",
+    videoId : "https://nl.catbox.video/mkl7ug.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "King of Prism: PRIDE the HERO - pride by Shouta Aoi",
-    videoId : "https://nl.catbox.video/3m47p6.webm",
+    name: "Bakegyamon - Mebius by Janne Da Arc",
+    videoId : "https://nl.catbox.video/9e2anl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -141,8 +141,8 @@ export const songs = [
     }
 },
 	{
-    name: "Saiyuki Reload: Zeroin - Kami mo Hotoke mo by GRANRODEO",
-    videoId : "https://nl.catbox.video/92soq2.webm",
+    name: "Terraformars - AMAZING BREAK by TERRASPEX",
+    videoId : "https://nl.catbox.video/xbh0lz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -151,8 +151,8 @@ export const songs = [
     }
 },
 	{
-    name: "Moeyo Ken - Toki no Musoubana by Hiromi Satou",
-    videoId : "https://nl.catbox.video/xhmok4.webm",
+    name: "Slam Dunk - Zettai ni Dare mo by ZYYG",
+    videoId : "https://nl.catbox.video/2xrjn3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -161,8 +161,8 @@ export const songs = [
     }
 },
 	{
-    name: "Princess Principal: Crown Handler - LIES & TIES by Void_Chords feat. Yui Mugino",
-    videoId : "https://nl.catbox.video/22z9zi.webm",
+    name: "Blood+ - SEASON'S CALL by HYDE",
+    videoId : "https://nl.catbox.video/0qtjo8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -171,8 +171,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yofukashi no Uta - Daten by Creepy Nuts",
-    videoId : "https://nl.catbox.video/2p06fq.webm",
+    name: "Baki - BEASTFUL by GRANRODEO",
+    videoId : "https://nl.catbox.video/1gq74j.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -181,8 +181,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bara-Ou no Souretsu - Ware, Bara ni Insu by Makoto Furukawa",
-    videoId : "https://nl.catbox.video/twfjue.webm",
+    name: "Gekijouban Hagane no Renkinjutsushi: Shamballa o Yuku Mono - Link by L'Arc~en~Ciel",
+    videoId : "https://nl.catbox.video/o3dxw3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -191,8 +191,8 @@ export const songs = [
     }
 },
 	{
-    name: "Gunjou no Fanfare - Move the soul by JO1",
-    videoId : "https://nl.catbox.video/3erpl8.webm",
+    name: "Ahiru no Sora - Humming Bird by BLUE ENCOUNT",
+    videoId : "https://nl.catbox.video/hwjlax.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -201,8 +201,8 @@ export const songs = [
     }
 },
 	{
-    name: "Naruto - Tada Yowai dake ja Nakute Bokura wa... by Mass Alert",
-    videoId : "https://nl.catbox.video/0mg65q.webm",
+    name: "DNA² - Blurry Eyes by L'Arc~en~Ciel",
+    videoId : "https://nl.catbox.video/ut23fe.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -211,8 +211,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hanyou no Yashahime: Ni no Shou - Kyoumei by SixTONES",
-    videoId : "https://nl.catbox.video/c5fx19.webm",
+    name: "Glass no Kamen - Promise by Candy",
+    videoId : "https://nl.catbox.video/unopbk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -221,8 +221,8 @@ export const songs = [
     }
 },
 	{
-    name: "Nodame Cantabile: Finale - Manazashi☆Daydream by Yu Sakai",
-    videoId : "https://nl.catbox.video/vp6g8x.webm",
+    name: "Kingdom - Douka by DeNeel",
+    videoId : "https://nl.catbox.video/8270dr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -231,8 +231,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sousei no Aquarion - Sousei no Aquarion by AKINO",
-    videoId : "https://nl.catbox.video/gzn49c.webm",
+    name: "Jigoku Shoujo Mitsuganae - tsukihana by Nana Kitade",
+    videoId : "https://nl.catbox.video/1dked9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -241,8 +241,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cardfight!! Vanguard G NEXT - Hello, Mr. Wonder land by Ayako Nakanomori",
-    videoId : "https://nl.catbox.video/4d0bo7.webm",
+    name: "Getbackers - Bara-iro no Sekai by PIERROT",
+    videoId : "https://nl.catbox.video/bwwkz4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -251,8 +251,8 @@ export const songs = [
     }
 },
 	{
-    name: "Meitantei Conan - Makka na Lip by WANDS",
-    videoId : "https://nl.catbox.video/whydg0.webm",
+    name: "Kindaichi Shounen no Jikenbo Returns - Yue ni, Matenrou by MUCC",
+    videoId : "https://nl.catbox.video/ckmuqo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -261,8 +261,8 @@ export const songs = [
     }
 },
 	{
-    name: "Rinne no Lagrange - TRY UNITE! by Megumi Nakajima",
-    videoId : "https://nl.catbox.video/tbeskr.webm",
+    name: "Kuroko no Basuke - The Other self by GRANRODEO",
+    videoId : "https://nl.catbox.video/682aqo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -271,8 +271,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sarazanmai - Massara by KANA-BOON",
-    videoId : "https://nl.catbox.video/360nwx.webm",
+    name: "Aoashi - Presence by Superfly",
+    videoId : "https://nl.catbox.video/inr47k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -281,8 +281,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bucchigiri?! - Sesame by Kroi",
-    videoId : "https://nl.catbox.video/x39qt6.webm",
+    name: "Ousama Ranking - Hadaka no Yuusha by Vaundy",
+    videoId : "https://nl.catbox.video/4j6rpg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -290,8 +290,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Gurazeni - Merry Go by Cypress Ueno to Robert Yoshino feat. SKY-HI",
-    videoId : "https://nl.catbox.video/iqem1m.webm",
+    name: "Keishichou Tokumu-bu Tokushu Kyouaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana - Take On Fever by OLDCODEX",
+    videoId : "https://nl.catbox.video/r6nwvd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
