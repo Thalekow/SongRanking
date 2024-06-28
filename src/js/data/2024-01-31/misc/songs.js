@@ -152,7 +152,7 @@ export const songs = [
 },
 	{
     name: "Xian Wang De Ri Chang Sheng Huo - Xian by Wei Bo En",
-    videoId : "https://nl.catbox.video/freyju.webm",
+    videoId : "https://files.catbox.moe/76kzgz.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
