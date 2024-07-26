@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Fruits Basket The Final Season - Pleasure by WARPs UP",
-    videoId : "https://nl.catbox.video/lhi465.webm",
+    name: "ACCA 13-ku Kansatsu-ka - "Shadow and Truth" by ONE III NOTES",
+    videoId : "https://nl.catbox.video/gdbuzd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Psycho-Pass 3: First Inspector - Synthetic Sympathy by Who-ya Extended",
-    videoId : "https://nl.catbox.video/udb4eb.webm",
+    name: "Hibike! Euphonium - "DREAM SOLISTER" by TRUE",
+    videoId : "https://nl.catbox.video/yuzqtm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Duel Masters Win - Limitless by ATEEZ",
-    videoId : "https://nl.catbox.video/2q0rq1.webm",
+    name: "Haikyu!! S3 - "Hikari Are" by BURNOUT SYNDROMES",
+    videoId : "https://nl.catbox.video/uix5b9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "No Guns Life - Chaos Drifters by SawanoHiroyuki[nZk]:Jean-Ken Johnny",
-    videoId : "https://nl.catbox.video/04iulg.webm",
+    name: "Zero no Tsukaima: Futatsuki no Kishi - I SAY YES by ICHIKO",
+    videoId : "https://nl.catbox.video/okgnn1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yashahime: Princess Half-Demon - The Second Act - ReBorn by NEWS",
-    videoId : "https://nl.catbox.video/2vco54.webm",
+    name: "Sasami-san@Ganbaranai - "Alteration" by ZAQ",
+    videoId : "https://nl.catbox.video/fzh0sv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Jujutsu Kaisen - Ao no Sumika by Tatsuya Kitani",
-    videoId : "https://nl.catbox.video/589lde.webm",
+    name: "Fate/Kaleid Liner Prisma Illya - "Starlog" by ChouCho",
+    videoId : "https://nl.catbox.video/3r2had.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Jujutsu Kaisen - VIVID VICE by Who-ya Extended",
-    videoId : "https://nl.catbox.video/4lqbch.webm",
+    name: "Gosick - "Destin Histoire" by yoshiki*lisa",
+    videoId : "https://nl.catbox.video/kh6yis.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sagrada Reset - Dakara Boku wa Boku o Tebanasu by WEAVER",
-    videoId : "https://nl.catbox.video/46kvi2.webm",
+    name: "Kidou Senshi Gundam AGE - "REAL" by ViViD",
+    videoId : "https://nl.catbox.video/wpckdh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "Black Clover - Eien ni Hikare (Everlasting Shine) by TOMORROW X TOGETHER",
-    videoId : "https://nl.catbox.video/jwj0vi.webm",
+    name: "Aoashi - "Presence" by Superfly",
+    videoId : "https://nl.catbox.video/inr47k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "91 Days - Signal by TK from Ling Tosite Sigure",
-    videoId : "https://nl.catbox.video/5do44c.webm",
+    name: "Saint Seiya - "Pegasus Fantasy" by MAKE-UP",
+    videoId : "https://nl.catbox.video/w7t8yo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "Ranking of Kings - Hadaka no Yuusha by Vaundy",
-    videoId : "https://nl.catbox.video/4j6rpg.webm",
+    name: "Nisemonogatari - "marshmallow justice" by Eri Kitamura",
+    videoId : "https://nl.catbox.video/ka11j5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Little Charo 4: Eigo de Aruku New York - Rainbow by Kana Nishino",
-    videoId : "https://nl.catbox.video/xcgfmt.webm",
+    name: "Mahou Shoujo Lyrical Nanoha A's - "ETERNAL BLAZE" by Nana Mizuki",
+    videoId : "https://nl.catbox.video/i1i7z0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "Undead Unluck - 01 by Ziyoou-vachi",
-    videoId : "https://nl.catbox.video/es9fqf.webm",
+    name: "Flip Flappers - "Serendipity" by ZAQ",
+    videoId : "https://nl.catbox.video/qr7dp1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "Legend of the Galactic Heroes: Die Neue These Kaikou - CRY by SawanoHiroyuki[nZk]:mizuki",
-    videoId : "https://nl.catbox.video/ut4khb.webm",
+    name: "Ore-tachi ni Tsubasa wa Nai: Under the Innocent Sky. - "Spread Wings." by Aki Misato",
+    videoId : "https://nl.catbox.video/1h7t2r.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -141,8 +141,8 @@ export const songs = [
     }
 },
 	{
-    name: "Mobile Suit Gundam 0083: Stardust Memory - THE WINNER by Miki Matsubara",
-    videoId : "https://nl.catbox.video/hu0xgu.webm",
+    name: "Cardfight Vanguard - "Believe in My Existence" by JAM Project",
+    videoId : "https://nl.catbox.video/m939oo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -151,8 +151,8 @@ export const songs = [
     }
 },
 	{
-    name: "Deltora Quest - In This Life~Tabidachi made no 3 Step by Delta Goodrem",
-    videoId : "https://nl.catbox.video/vbceh3.webm",
+    name: "Major - Saraba Aoki Omokage by ROAD OF MAJOR",
+    videoId : "https://nl.catbox.video/g2dr6a.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -161,8 +161,8 @@ export const songs = [
     }
 },
 	{
-    name: "Made in Abyss: The Golden City of the Scorching Sun - Katachi by Riko Azuna",
-    videoId : "https://nl.catbox.video/s8syf0.webm",
+    name: "Bakuman. 3 - "Moshimo no Hanashi" by nano.RIPE",
+    videoId : "https://nl.catbox.video/707rzp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -171,8 +171,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yuki Yuna is a Hero: Washio Sumi Chapter - Egao no Kimi e by Suzuko Mimori",
-    videoId : "https://nl.catbox.video/l522on.webm",
+    name: "Granblue Fantasy The Animation S2 - "Stay With Me" by Seven Billion Dots",
+    videoId : "https://nl.catbox.video/8rn0b2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -181,8 +181,8 @@ export const songs = [
     }
 },
 	{
-    name: "My Hero Academia - Bokura no by Eve",
-    videoId : "https://nl.catbox.video/v0lw02.webm",
+    name: "Gintama' - "Sakura Mitsutsuki" by SPYAIR",
+    videoId : "https://nl.catbox.video/dzdpkz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -191,8 +191,8 @@ export const songs = [
     }
 },
 	{
-    name: "Concrete Revolutio: The Last Song - Wareru Doukoku by ZAQ",
-    videoId : "https://nl.catbox.video/zgeqc4.webm",
+    name: "Yu-Gi-Oh! GX - Precious Time, Glory Days by Psychic Lovers",
+    videoId : "https://nl.catbox.video/pwej26.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -201,8 +201,8 @@ export const songs = [
     }
 },
 	{
-    name: "Black Clover - Grandeur by Snow Man",
-    videoId : "https://nl.catbox.video/mpx3vp.webm",
+    name: "Nijuu-Mensou no Musume - "Kasumi" by 369",
+    videoId : "https://nl.catbox.video/65rl74.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -211,8 +211,8 @@ export const songs = [
     }
 },
 	{
-    name: "City Hunter 2 - SARA by FENCE OF DEFENSE",
-    videoId : "https://nl.catbox.video/u6fd79.webm",
+    name: "Mahou Shoujo Madoka Magica - "Connect" by ClariS",
+    videoId : "https://nl.catbox.video/kcqnzb.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -221,8 +221,8 @@ export const songs = [
     }
 },
 	{
-    name: "Uma Musume: Pretty Derby - Road to the Top - Glorious Moment! by Kanna Nakamura, Hitomi Sasaki, Sora Tokui",
-    videoId : "https://nl.catbox.video/dh946k.webm",
+    name: "Naruto Shippuuden - CLOSER by Joe Inoue",
+    videoId : "https://nl.catbox.video/dwfpu9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -231,8 +231,8 @@ export const songs = [
     }
 },
 	{
-    name: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World! - Mujikaku no Tensai by Non Stop Rabbit",
-    videoId : "https://nl.catbox.video/nm3ghy.webm",
+    name: "Inu x Boku SS - "Nirvana" by MUCC",
+    videoId : "https://nl.catbox.video/1jnrs6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -241,8 +241,8 @@ export const songs = [
     }
 },
 	{
-    name: "Moriarty the Patriot - DYING WISH by Tasuku Hatanaka",
-    videoId : "https://nl.catbox.video/itqhc1.webm",
+    name: "Mashiro-iro Symphony: The color of lovers - "Authentic symphony" by ChouCho",
+    videoId : "https://nl.catbox.video/j9n4a6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -251,8 +251,8 @@ export const songs = [
     }
 },
 	{
-    name: "Starmyu - Yume Iro ~team Ootori Ver.~ by team Ootori",
-    videoId : "https://nl.catbox.video/vqa3nu.webm",
+    name: "Kusuriya no Hitorigoto - "Ambivalent" by Uru",
+    videoId : "https://nl.catbox.video/86jz91.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -261,8 +261,8 @@ export const songs = [
     }
 },
 	{
-    name: "D4DJ All Mix - Maihime by Lyrical Lily",
-    videoId : "https://nl.catbox.video/8zweql.webm",
+    name: "YU-GI-OH! Duel Monsters - Overlap by KIMERU",
+    videoId : "https://nl.catbox.video/wskbcx.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -271,8 +271,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sword Art Online Alicization - ADAMAS by LiSA",
-    videoId : "https://nl.catbox.video/pqcd4f.webm",
+    name: "ef: a tale of memories - euphoric field by ELISA",
+    videoId : "https://nl.catbox.video/ct4ett.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -281,8 +281,8 @@ export const songs = [
     }
 },
 	{
-    name: "Major - RISE by Kohei Otomo",
-    videoId : "https://nl.catbox.video/zijh3n.webm",
+    name: "selector infected WIXOSS - "killy killy JOKER" by Kanon Wakeshima",
+    videoId : "https://nl.catbox.video/mjeupf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -290,8 +290,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Shadowverse Flame - Tick-Tock by NEWS",
-    videoId : "https://nl.catbox.video/89qd46.webm",
+    name: "Renkin 3-kyuu Magical? Pokaan - "Senketsu no Chikai" by Yousei Teikoku",
+    videoId : "https://nl.catbox.video/um702g.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
