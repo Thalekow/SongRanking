@@ -1,7 +1,7 @@
 
 export const songs = [
 	{
-    name: "ACCA 13-ku Kansatsu-ka - "Shadow and Truth" by ONE III NOTES",
+    name: "ACCA 13-ku Kansatsu-ka - Shadow and Truth by ONE III NOTES",
     videoId : "https://nl.catbox.video/gdbuzd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -11,7 +11,7 @@ export const songs = [
     }
 },
 	{
-    name: "Hibike! Euphonium - "DREAM SOLISTER" by TRUE",
+    name: "Hibike! Euphonium - DREAM SOLISTER by TRUE",
     videoId : "https://nl.catbox.video/ttawb0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -21,7 +21,7 @@ export const songs = [
     }
 },
 	{
-    name: "Haikyu!! S3 - "Hikari Are" by BURNOUT SYNDROMES",
+    name: "Haikyu!! S3 - Hikari Are by BURNOUT SYNDROMES",
     videoId : "https://nl.catbox.video/uix5b9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -41,7 +41,7 @@ export const songs = [
     }
 },
 	{
-    name: "Sasami-san@Ganbaranai - "Alteration" by ZAQ",
+    name: "Sasami-san@Ganbaranai - Alteration by ZAQ",
     videoId : "https://nl.catbox.video/fzh0sv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -51,7 +51,7 @@ export const songs = [
     }
 },
 	{
-    name: "Fate/Kaleid Liner Prisma Illya - "Starlog" by ChouCho",
+    name: "Fate/Kaleid Liner Prisma Illya - Starlog by ChouCho",
     videoId : "https://nl.catbox.video/3r2had.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -61,7 +61,7 @@ export const songs = [
     }
 },
 	{
-    name: "Gosick - "Destin Histoire" by yoshiki*lisa",
+    name: "Gosick - Destin Histoire by yoshiki*lisa",
     videoId : "https://nl.catbox.video/kh6yis.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -71,7 +71,7 @@ export const songs = [
     }
 },
 	{
-    name: "Kidou Senshi Gundam AGE - "REAL" by ViViD",
+    name: "Kidou Senshi Gundam AGE - REAL by ViViD",
     videoId : "https://nl.catbox.video/wpckdh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -81,7 +81,7 @@ export const songs = [
     }
 },
 	{
-    name: "Aoashi - "Presence" by Superfly",
+    name: "Aoashi - Presence by Superfly",
     videoId : "https://nl.catbox.video/inr47k.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -91,7 +91,7 @@ export const songs = [
     }
 },
 	{
-    name: "Saint Seiya - "Pegasus Fantasy" by MAKE-UP",
+    name: "Saint Seiya - Pegasus Fantasy by MAKE-UP",
     videoId : "https://nl.catbox.video/w7t8yo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -101,7 +101,7 @@ export const songs = [
     }
 },
 	{
-    name: "Nisemonogatari - "marshmallow justice" by Eri Kitamura",
+    name: "Nisemonogatari - marshmallow justice by Eri Kitamura",
     videoId : "https://nl.catbox.video/ka11j5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -111,7 +111,7 @@ export const songs = [
     }
 },
 	{
-    name: "Mahou Shoujo Lyrical Nanoha A's - "ETERNAL BLAZE" by Nana Mizuki",
+    name: "Mahou Shoujo Lyrical Nanoha A's - ETERNAL BLAZE by Nana Mizuki",
     videoId : "https://nl.catbox.video/i1i7z0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -121,7 +121,7 @@ export const songs = [
     }
 },
 	{
-    name: "Flip Flappers - "Serendipity" by ZAQ",
+    name: "Flip Flappers - Serendipity by ZAQ",
     videoId : "https://nl.catbox.video/qr7dp1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -131,7 +131,7 @@ export const songs = [
     }
 },
 	{
-    name: "Ore-tachi ni Tsubasa wa Nai: Under the Innocent Sky. - "Spread Wings." by Aki Misato",
+    name: "Ore-tachi ni Tsubasa wa Nai: Under the Innocent Sky. - Spread Wings. by Aki Misato",
     videoId : "https://nl.catbox.video/1h7t2r.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -141,7 +141,7 @@ export const songs = [
     }
 },
 	{
-    name: "Cardfight Vanguard - "Believe in My Existence" by JAM Project",
+    name: "Cardfight Vanguard - Believe in My Existence by JAM Project",
     videoId : "https://nl.catbox.video/m939oo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -161,7 +161,7 @@ export const songs = [
     }
 },
 	{
-    name: "Bakuman. 3 - "Moshimo no Hanashi" by nano.RIPE",
+    name: "Bakuman. 3 - Moshimo no Hanashi by nano.RIPE",
     videoId : "https://nl.catbox.video/707rzp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -171,7 +171,7 @@ export const songs = [
     }
 },
 	{
-    name: "Granblue Fantasy The Animation S2 - "Stay With Me" by Seven Billion Dots",
+    name: "Granblue Fantasy The Animation S2 - Stay With Me by Seven Billion Dots",
     videoId : "https://nl.catbox.video/8rn0b2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -181,7 +181,7 @@ export const songs = [
     }
 },
 	{
-    name: "Gintama' - "Sakura Mitsutsuki" by SPYAIR",
+    name: "Gintama' - Sakura Mitsutsuki by SPYAIR",
     videoId : "https://nl.catbox.video/dzdpkz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -201,7 +201,7 @@ export const songs = [
     }
 },
 	{
-    name: "Nijuu-Mensou no Musume - "Kasumi" by 369",
+    name: "Nijuu-Mensou no Musume - Kasumi by 369",
     videoId : "https://nl.catbox.video/65rl74.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -211,7 +211,7 @@ export const songs = [
     }
 },
 	{
-    name: "Mahou Shoujo Madoka Magica - "Connect" by ClariS",
+    name: "Mahou Shoujo Madoka Magica - Connect by ClariS",
     videoId : "https://nl.catbox.video/ao0ex5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -231,7 +231,7 @@ export const songs = [
     }
 },
 	{
-    name: "Inu x Boku SS - "Nirvana" by MUCC",
+    name: "Inu x Boku SS - Nirvana by MUCC",
     videoId : "https://nl.catbox.video/1jnrs6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -241,7 +241,7 @@ export const songs = [
     }
 },
 	{
-    name: "Mashiro-iro Symphony: The color of lovers - "Authentic symphony" by ChouCho",
+    name: "Mashiro-iro Symphony: The color of lovers - Authentic symphony by ChouCho",
     videoId : "https://nl.catbox.video/j9n4a6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -251,7 +251,7 @@ export const songs = [
     }
 },
 	{
-    name: "Kusuriya no Hitorigoto - "Ambivalent" by Uru",
+    name: "Kusuriya no Hitorigoto - Ambivalent by Uru",
     videoId : "https://nl.catbox.video/86jz91.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -281,7 +281,7 @@ export const songs = [
     }
 },
 	{
-    name: "selector infected WIXOSS - "killy killy JOKER" by Kanon Wakeshima",
+    name: "selector infected WIXOSS - killy killy JOKER by Kanon Wakeshima",
     videoId : "https://nl.catbox.video/mjeupf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -290,7 +290,7 @@ export const songs = [
         ]
     }
 },{
-    name: "Renkin 3-kyuu Magical? Pokaan - "Senketsu no Chikai" by Yousei Teikoku",
+    name: "Renkin 3-kyuu Magical? Pokaan - Senketsu no Chikai by Yousei Teikoku",
     videoId : "https://nl.catbox.video/um702g.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
