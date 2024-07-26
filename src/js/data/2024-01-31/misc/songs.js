@@ -12,7 +12,7 @@ export const songs = [
 },
 	{
     name: "Hibike! Euphonium - "DREAM SOLISTER" by TRUE",
-    videoId : "https://nl.catbox.video/yuzqtm.webm",
+    videoId : "https://nl.catbox.video/ttawb0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -212,7 +212,7 @@ export const songs = [
 },
 	{
     name: "Mahou Shoujo Madoka Magica - "Connect" by ClariS",
-    videoId : "https://nl.catbox.video/kcqnzb.webm",
+    videoId : "https://nl.catbox.video/ao0ex5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
