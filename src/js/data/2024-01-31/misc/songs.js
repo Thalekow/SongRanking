@@ -1,242 +1,242 @@
+
 export const songs = [
-  {
-    name: "ACCA 13-ku Kansatsu-ka - Shadow and Truth by ONE III NOTES",
-    videoId: "https://nl.catbox.video/gdbuzd.webm",
+	{
+    name: "Ceres, Celestial Legend - ONE~Kono Yo ga Hatete mo Hanarenai~ by DAY-BREAK",
+    videoId : "https://nl.catbox.video/0m0qzi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Hibike! Euphonium - DREAM SOLISTER by TRUE",
-    videoId: "https://nl.catbox.video/ttawb0.webm",
+},
+	{
+    name: "Turn A Gundam - Tsuki no Mayu by Aki Okui",
+    videoId : "https://ladist1.catbox.video/tyrf50.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Haikyu!! S3 - Hikari Are by BURNOUT SYNDROMES",
-    videoId: "https://nl.catbox.video/uix5b9.webm",
+},
+	{
+    name: "Boogiepop wa Warawanai - Yuudachi by Shikao Suga",
+    videoId : "https://vhdist1.catbox.video/a1x5qo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Zero no Tsukaima: Futatsuki no Kishi - I SAY YES by ICHIKO",
-    videoId: "https://nl.catbox.video/okgnn1.webm",
+},
+	{
+    name: "Invincible King Tri-Zenon - unsteady by Megumi Hayashibara",
+    videoId : "https://ladist1.catbox.video/a4cmpe.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Sasami-san@Ganbaranai - Alteration by ZAQ",
-    videoId: "https://nl.catbox.video/fzh0sv.webm",
+},
+	{
+    name: "Gekijouban Cardcaptor Sakura: Fuuin sareta Card - Ashita e no Melody by CHAKA",
+    videoId : "https://nl.catbox.video/x4ju65.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Fate/Kaleid Liner Prisma Illya - Starlog by ChouCho",
-    videoId: "https://nl.catbox.video/3r2had.webm",
+},
+	{
+    name: "Popee the Performer  - Popee the Clown (Original Version) by Tsuneo Aoyagi",
+    videoId : "https://ladist1.catbox.video/gcyldf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Gosick - Destin Histoire by yoshiki*lisa",
-    videoId: "https://nl.catbox.video/kh6yis.webm",
+},
+	{
+    name: "One Piece - Believe by Folder5",
+    videoId : "https://nl.catbox.video/im1a6p.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Kidou Senshi Gundam AGE - REAL by ViViD",
-    videoId: "https://nl.catbox.video/wpckdh.webm",
+},
+	{
+    name: "Vampire Hunter D: Bloodlust - Tooku made by Do As Infinity",
+    videoId : "https://ladist1.catbox.video/ni849v.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Aoashi - Presence by Superfly",
-    videoId: "https://nl.catbox.video/inr47k.webm",
+},
+	{
+    name: "Inuyasha  - CHANGE THE WORLD by V6",
+    videoId : "https://ladist1.catbox.video/b6y179.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Saint Seiya - Pegasus Fantasy by MAKE-UP",
-    videoId: "https://nl.catbox.video/w7t8yo.webm",
+},
+	{
+    name: "Shin Getter Robo tai Neo Getter Robo - STORM by JAM Project featuring Ichiro Mizuki & Hironobu Kageyama",
+    videoId : "https://nl.catbox.video/p1pivv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Nisemonogatari - Marshmallow Justice by Eri Kitamura",
-    videoId: "https://nl.catbox.video/ka11j5.webm",
+},
+	{
+    name: "Boogiepop wa Warawanai - Mirai Seiki Maruhi Club by Kyouko",
+    videoId : "https://ladist1.catbox.video/096zx6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Mahou Shoujo Lyrical Nanoha A's - ETERNAL BLAZE by Nana Mizuki",
-    videoId: "https://nl.catbox.video/i1i7z0.webm",
+},
+	{
+    name: "Jibaku-kun - 37°C ~Binetsu Senki~ by M-TWO",
+    videoId : "https://nl.catbox.video/6lj4al.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Flip Flappers - Serendipity by ZAQ",
-    videoId: "https://nl.catbox.video/qr7dp1.webm",
+},
+	{
+    name: "Seikai no Senki - Pink by YUAMU",
+    videoId : "https://ladist1.catbox.video/r5njnk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Ore-tachi ni Tsubasa wa Nai: Under the Innocent Sky - Spread Wings. by Aki Misato",
-    videoId: "https://nl.catbox.video/1h7t2r.webm",
+},
+	{
+    name: "Digimon Adventure 02 - Target ~Akai Shougeki~ by Kouji Wada",
+    videoId : "https://ladist1.catbox.video/p7lwmp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Cardfight Vanguard - Believe in My Existence by JAM Project",
-    videoId: "https://nl.catbox.video/m939oo.webm",
+},
+	{
+    name: "Kindaichi Shounen no Jikenbo - Never Say Why, Never Say No by 566 featuring Sayuri Nakano",
+    videoId : "https://nl.catbox.video/xj66gq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Major - Saraba Aoki Omokage by ROAD OF MAJOR",
-    videoId: "https://nl.catbox.video/g2dr6a.webm",
+},
+	{
+    name: "Kita e.: Pure Session - Koi no Dancing by Saeko Chiba",
+    videoId : "https://ladist1.catbox.video/im6z95.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Bakuman. 3 - Moshimo no Hanashi by nano.RIPE",
-    videoId: "https://nl.catbox.video/707rzp.webm",
+},
+	{
+    name: "Gensoumaden Saiyuuki - FOR REAL by Hidenori Tokuyama",
+    videoId : "https://ladist1.catbox.video/g0mb8t.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Granblue Fantasy The Animation S2 - Stay With Me by Seven Billion Dots",
-    videoId: "https://nl.catbox.video/8rn0b2.webm",
+},
+	{
+    name: "Great Teacher Onizuka - Hitori no Yoru by Porno Graffitti",
+    videoId : "https://ladist1.catbox.video/0lj4ne.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Gintama' - Sakura Mitsutsuki by SPYAIR",
-    videoId: "https://nl.catbox.video/dzdpkz.webm",
+},
+	{
+    name: "Blue Gender - Tokihanate! by Houko Kuwashima",
+    videoId : "https://files.catbox.moe/uq5a7z.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Yu-Gi-Oh! GX - Precious Time, Glory Days by Psychic Lover",
-    videoId: "https://nl.catbox.video/pwej26.webm",
+},
+	{
+    name: "Yuusha-Ou GaoGaiGar FInal - Yuusha-Ou Tanjou! -Mythology Version- by Masaaki Endoh",
+    videoId : "https://ladist1.catbox.video/aobqqj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Nijuu-Mensou no Musume - Kasumi by 369",
-    videoId: "https://nl.catbox.video/65rl74.webm",
+},
+	{
+    name: "Argento Soma - Silent Wind by Eri Sugai",
+    videoId : "https://ladist1.catbox.video/5y9d4j.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Mahou Shoujo Madoka Magica - Connect by ClariS",
-    videoId: "https://nl.catbox.video/ao0ex5.webm",
+},
+	{
+    name: "Hamtaro - 200% no Jumon by team Le TAO",
+    videoId : "https://nl.catbox.video/6poam4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Naruto Shippuuden - CLOSER by Joe Inoue",
-    videoId: "https://nl.catbox.video/dwfpu9.webm",
+},
+	{
+    name: "Gear Senshi Dendoh - Over the Rainbow by Little Voice",
+    videoId : "https://ladist1.catbox.video/7jcnwo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Inu x Boku SS - Nirvana by MUCC",
-    videoId: "https://nl.catbox.video/1jnrs6.webm",
+},{
+    name: "Eiga Crayon Shin-chan: Arashi o Yobu Jungle - Hoero! Dragon by Carl Douglas",
+    videoId : "https://ladist1.catbox.video/13sq9a.webm",
     videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
+    opts:{
+        singer:[
+        "OP"
+        ]
     }
-  },
-  {
-    name: "Mashiro-iro Symphony: The Color of Lovers - Authentic Symphony by ChouCho",
-    videoId: "https://nl.catbox.video/j9n4a6.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
-    }
-  },
-  {
-    name: "Kusuriya no Hitorigoto - Ambivalent by Uru",
-    videoId: "https://nl.catbox.video/86jz91.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
-    }
-  },
-  {
-    name: "YU-GI-OH! Duel Monsters - Overlap by KIMERU",
-    videoId: "https://nl.catbox.video/wskbcx.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
-    }
-  },
-  {
-    name: "ef: A Tale of Memories - Euphoric Field by ELISA",
-    videoId: "https://nl.catbox.video/ct4ett.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
-    }
-  },
-  {
-    name: "Selector Infected WIXOSS - Killy Killy JOKER by Kanon Wakeshima",
-    videoId: "https://nl.catbox.video/mjeupf.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
-    }
-  },
-  {
-    name: "Renkin 3-kyuu Magical? Pokaan - Senketsu no Chikai by Yousei Teikoku",
-    videoId: "https://nl.catbox.video/um702g.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: ["OP"]
-    }
-  }
+}
 ];
