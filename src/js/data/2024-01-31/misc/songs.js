@@ -11,7 +11,7 @@ export const songs = [
     }
 },
 	{
-    name: ""Oshi no Ko" - Idol by YOASOBI",
+    name: "Oshi no Ko - Idol by YOASOBI",
     videoId : "https://nl.catbox.video/2zfjcg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
